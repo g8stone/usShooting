@@ -51,7 +51,7 @@ props.description: .223-caliber assault rifle, semi-automatic handgun
 props.color: #A0262A
 
 image: orlando7.svg
-props.name: Pulse
+props.name: Orlando
 props.title: Pulse nightclub, Orlando, Florida
 props.date: June 12, 2016
 props.toll: 49 killed
